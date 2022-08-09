@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T17:31:19 IST" name="Default suite" finished-at="2022-07-19T17:32:00 IST" duration-ms="40610">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T17:31:19 IST" name="Default test" finished-at="2022-07-19T17:32:00 IST" duration-ms="40610">
+      <class name="com.ecom.atcobe.appiumscripts.GeneralStoreScrollTillElementInView">
+        <test-method signature="generalStoreScrollTillElementInView()[pri:0, instance:com.ecom.atcobe.appiumscripts.GeneralStoreScrollTillElementInView@7e07db1f]" started-at="2022-07-19T17:31:19 IST" name="generalStoreScrollTillElementInView" finished-at="2022-07-19T17:32:00 IST" duration-ms="40584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generalStoreScrollTillElementInView -->
+      </class> <!-- com.ecom.atcobe.appiumscripts.GeneralStoreScrollTillElementInView -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
